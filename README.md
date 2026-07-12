@@ -1,17 +1,18 @@
 ## Hey there! 👋
 
-<h3>I’m Abhinav, a second-year B.Tech CS (AI & ML) undergrad.
+<h3>I’m Abhinav, a second-year B.Tech CS (AI & ML) undergrad.</h3>
 
-I,m curremtly learning Web development and DSA.
+<h3>I,m curremtly learning Web development and DSA.</h3>
 
-My programming skills include Java, Python, and C.\
+<h3>My programming skills include Java, Python, and C.</h3>
 
-I’m looking to collaborate on coding projects, hackathons, and open-source initiatives.</h3>
+<h3>I’m looking to collaborate on coding projects, hackathons, and open-source initiatives.</h3>
 
-Fun Facts:
+<h3>Fun Facts:</h3>
 
- > I believe coffee and code are best friends.
- > Hire me to unlock the rest of the fun facts.
+<h4></h4> I believe coffee and code are best friends.</h4>
+<h4> Hire me to unlock the rest of the fun facts.</h4>
+.....
 
    
 
