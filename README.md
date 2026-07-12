@@ -1,12 +1,12 @@
 ## Hey there! 👋
 
-<h3>I’m Abhinav, a second-year B.Tech CS (AI & ML) undergrad.</h3>
+<h3>I’m Abhinav, a second-year B.Tech CS (AI & ML) undergrad.
 
 I,m curremtly learning Web development and DSA.
 
 My programming skills include Java, Python, and C.\
 
-I’m looking to collaborate on coding projects, hackathons, and open-source initiatives.
+I’m looking to collaborate on coding projects, hackathons, and open-source initiatives.</h3>
 
 Fun Facts:
 
