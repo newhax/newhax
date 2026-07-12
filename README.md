@@ -11,7 +11,17 @@ I’m looking to collaborate on coding projects, hackathons, and open-source ini
 Fun Facts:
 
   I believe coffee and code are best friends.
-   Hire me to unlock the rest of the fun facts.
+  Hire me to unlock the rest of the fun facts.
+
+
+
+
+
+
+
+
+
+   
 <!--
 **newhax/newhax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
