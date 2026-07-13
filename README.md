@@ -1,18 +1,81 @@
-## Hey there! 👋
+# Hi, I'm Abhinav Srivastava 👋
 
-<h3>I’m Abhinav, a second-year B.Tech CS (AI & ML) undergrad.</h3>
+### AI Enthusiast | Open Source Contributor | Future Builder
 
-<h3>I'm curremtly learning Web development and DSA.</h3>
+I'm a B.Tech Artificial Intelligence and Machine Learning student at **G.L Bajaj Institue Of Technology and Management** with a strong interest in **Artificial Intelligence, Large Language Models (LLMs), Machine Learning, Web Development, Computer Vision, and Intelligent Systems**.
 
-<h3>My programming skills include Java, Python, and C.</h3>
+I enjoy building projects, contributing to open source, and exploring technologies that have the potential to solve real-world problems at scale.
 
-<h3>I’m looking to collaborate on coding projects, hackathons, and open-source initiatives.</h3>
+---
 
-<h3>Fun Facts:</h3>
+## 🚀 About Me
 
-<h4>> I believe coffee and code are best friends.</h4>
-<h4>>  Work with me to unlock the rest of the fun facts.</h4>
-.....
+* 🎓 B.Tech in Artificial Intelligence and Machine Learning(2025–2029)
+* 🧠 Exploring AI, LLMs, Machine Learning, Web Development, and Computer Vision
+* 📚 Continuously learning software engineering and AI system design
+* 💡 Interested in building impactful products and startups
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Java
+* Python
+* c
+* c++
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+
+### Domains
+
+* Artificial Intelligence
+* Machine Learning
+* Natural Language Processing
+* Computer Vision
+* Intelligent Systems
+* Automation
+
+---
+
+## 🌱 Currently Learning
+
+* Large Language Models (LLMs)
+* AI Agents
+* Machine Learning Fundamentals
+* Cybersecurity & OWASP Practices
+* System Design
+* Open Source Development
+
+---
+
+## 🎯 My Mission
+
+I aim to build intelligent systems that create real-world impact and contribute to the next generation of AI-powered products. I'm particularly interested in opportunities involving:
+
+* Artificial Intelligence
+* Machine Learning
+* LLM Applications
+* AI Automation
+* Developer Tools
+* Startup Innovation
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: [srivastavaabhinav5158@gmail.com](mailto:srivastavaabhinav5158@gmail.com)
+
+💼 LinkedIn: [www.linkedin.com/in/abhinav-srivastava-84a074381/](https://www.linkedin.com/in/abhinav-srivastava-84a074381/)
+
+---
+
+### "Building today, learning every day, and creating for the future."
 
    
 
