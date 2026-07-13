@@ -1,6 +1,6 @@
 # Hi, I'm Abhinav Srivastava 👋
 
-### AI Enthusiast | Open Source Contributor | Future Builder
+### AI Enthusiast | Future Builder
 
 I'm a B.Tech Artificial Intelligence and Machine Learning student at **G.L Bajaj Institue Of Technology and Management** with a strong interest in **Artificial Intelligence, Large Language Models (LLMs), Machine Learning, Web Development, Computer Vision, and Intelligent Systems**.
 
